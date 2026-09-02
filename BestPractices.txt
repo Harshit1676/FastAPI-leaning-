@@ -1,0 +1,8 @@
+Use HTTPS in production
+store JWT secrets and API keys into the .env file or secure Vault
+
+Implement Role based Access Control(RBAC)
+
+set token expiration time 
+
+use Hashing (e.g., bcrpyt) for password
