@@ -1,3 +1,0 @@
-git add .
-git commit -m "Learned FastAPI query parameters"
-git push
